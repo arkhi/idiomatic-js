@@ -29,7 +29,7 @@ The whitespace rules are set forth as a recommendation with a simpler, higher pu
 
 1. _Never_ mix spaces and tabs for indentation.
 2. Choose between soft indents (spaces) or real tabs. Stick to your choice without fail. (Preference: spaces)
-3. Choose the number of characters used per indentation level. (Perference: 4 spaces)
+3. Choose the number of characters used per indentation level. (Preference: 4 spaces)
 4. Configure your editor to "show invisibles". This will allow you to:
     - Enforced consistency.
     - Eliminating end of line whitespace.
